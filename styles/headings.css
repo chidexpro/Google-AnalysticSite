@@ -1,0 +1,53 @@
+/* design google name styles */
+.google-name {
+    display: flex;
+    flex-direction: row;
+}
+
+.google-name > .colour1 {
+    color: blue;
+}
+.google-name > .colour2 {
+    color: red;
+}
+.google-name > .colour3 {
+    color: orange;
+}
+.google-name > .colour4 {
+    color: green;
+}
+.google-name > .colour5 {
+    color: purple;
+}
+.google-name > .colour6 {
+    color: black;
+}
+
+
+/* First Heading on the Page  */
+.headingA {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(250, 250, 250);
+    height: 8vh;
+    font-size: 35px;
+    padding: 10px 0px 0px 45px;
+}
+
+.headingB {
+    background-color: rgb(255, 119, 0);
+    height: 7vh;
+    font-size: 25px;
+    padding: 10px 0px 0px 40px;
+    color: rgb(250, 250, 250);
+
+}
+
+
+/* The Instructors section  */
+.instructor-heading {
+    font-size: 30px;
+    padding-left: 70px;
+    padding-top: 35px;
+
+}

@@ -1,0 +1,53 @@
+/* All grid styling for the Analytic block  */
+/* The coding below */
+
+.grid-box {
+    margin-top: -45px;
+    background-color: rgb(66, 134, 245);
+    height: 145vh;
+}
+
+.grid-box > .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    grid-gap: 30px;
+    padding-left: 80px;
+
+}
+
+.grid-box p {
+    font-size: 40px;
+    padding-left: 80px;
+    padding-top: 15px;
+    color: white;
+    
+}
+
+.grid-border {
+    /* border: solid wheat thick; */
+    height: 60vh;
+    width: 90%;
+    background-color: white;
+    /* Still working on the final styling the border grid lines  */
+}
+
+.grid-container > .grid-block01 h4 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.grid-container > .grid-block01 img {
+    padding-top: 10px;
+}
+
+.grid-container > .grid-block01 {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+
+
+/* All grid styling for the Instructors block  */
+/* The coding below */
+

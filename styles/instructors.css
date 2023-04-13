@@ -1,0 +1,37 @@
+
+.instructor-section {
+    padding-left: 70px;
+    padding-top: 35px;
+}
+
+.heading01 {
+    font-size: 25px;
+}
+
+.name-header {
+    height: 3vh;
+    background-color: rgb(242, 242, 242);
+    border-bottom: thin solid rgb(173, 172, 172);
+    font-size: 22px;
+    text-transform: uppercase;
+    padding: 20px 20px;
+}
+
+.content-inside {
+    height: 15vh;
+    background-color: rgb(242, 242, 242);
+    border-bottom: thin solid rgb(173, 172, 172);
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
+
+.instructor-flexbox2 {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.flex-container {
+    display: flex;
+}

@@ -1,0 +1,22 @@
+
+.first-block > .flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+}
+
+.first-block > .flex-container > .writeup01 {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0px 0px 120px;
+    font-size: 25px;
+    margin-top: -65px;
+
+}
+
+.first-block > .flex-container > .writeup01 > P {
+    font-weight: bold;
+    font-size: 45px;
+}
+
